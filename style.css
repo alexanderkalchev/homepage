@@ -36,8 +36,8 @@ header::before{
 }
 
 header img:not(.media-icon){
-    min-width: 250px;
-    max-width:400px;
+    min-width: 320px;
+    max-width:40%;
 }
 
 header section{
@@ -179,7 +179,6 @@ footer img:not(.icon){
 }
 
 @media (max-width: 540px){
-    
 
     main>h2{
         text-align:center;
